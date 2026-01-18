@@ -95,4 +95,8 @@ public class CompanyServiceImpl implements CompanyService {
         return companyResponseDto;
 
     }
+
+    public void generateItems(){
+
+    }
 }
